@@ -1,0 +1,29 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": 1841720111,
+      "nama": "Figha",
+      "alamat": "Blitar",
+      "hp": "081234223417",
+      "angkatan": 2018,
+      "status": "aktif"
+    },
+    {
+      "NIM": 1841720129,
+      "nama": "Ilman",
+      "alamat": "Jl. ikan pause",
+      "hp": "08123456789",
+      "angkatan": 2018,
+      "status": "Pengangguran"
+    },
+    {
+      "id": 1618162759963,
+      "nama": "M Rayhan AP",
+      "nim": "1841720121",
+      "alamat": "Singosari",
+      "hp": "08912103213",
+      "angkatan": "2018",
+      "status": "Selamat"
+    }
+  ]
+}
